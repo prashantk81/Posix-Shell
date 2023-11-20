@@ -1,0 +1,9 @@
+echo $HOME
+pwd
+ls -al
+history
+cat hel.txt | head -5 | tail -3 | sort
+echo he
+ls
+echo da
+quit
